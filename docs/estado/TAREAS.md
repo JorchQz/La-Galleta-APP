@@ -11,7 +11,7 @@ Estados: `pendiente` · `en curso` · `bloqueada` · `hecha`
 | 5 | Analizar `Sistema-SM`: stack y patrones que lo hacen fluido (solo lectura) | investigador | bloqueada | Depende de #3 |
 | 6 | Responder `docs/negocio/PREGUNTAS.md` | Usuario | pendiente | |
 | 7 | Decidir el stack definitivo (ADR-002) | Maestro | pendiente | Depende de #4, #5 |
-| 8 | Modelo de amenazas inicial y checklist | seguridad | pendiente | Se puede hacer antes del código |
+| 8 | Modelo de amenazas inicial y checklist | seguridad | hecha | 2026-10-16. Roles propuestos por confirmar con el usuario |
 | 9 | Esqueleto de la app con login usuario/contraseña | constructor | pendiente | Depende de #7 |
 | 10 | Módulo inventario de ganado | constructor | pendiente | Depende de #6, #9 |
 | 11 | Módulo contabilidad | constructor | pendiente | Depende de #6, #9 |

@@ -11,6 +11,7 @@ _Última actualización: 2026-10-16_
 - Estructura de agentes: Maestro (`/maestro`), investigador, constructor y seguridad.
 - Archivos de estado compartido (`docs/estado/`).
 - Investigación inicial del negocio (ver `docs/negocio/`).
+- Modelo de amenazas y checklist de seguridad (`docs/seguridad/`).
 
 ## Siguiente
 

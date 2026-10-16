@@ -11,8 +11,9 @@ Entradas nuevas arriba. Formato: fecha · quién · qué se hizo · pendiente.
 - Se creó el equipo de agentes: `/maestro`, `investigador`, `constructor`, `seguridad`.
 - Se crearon los archivos de estado compartido (`docs/estado/`).
 - El investigador generó la primera versión del conocimiento del negocio en `docs/negocio/`.
+- El agente de seguridad creó el modelo de amenazas y el checklist (`docs/seguridad/`), con roles propuestos por confirmar.
 - Se aclaró que TypeScript no hace lenta la app (ver ADR-002).
 
 **Pendiente**
 - No se pudo leer `Sistema-SM` ni `LaGRapp` por falta de acceso de GitHub (ver ESTADO.md → Bloqueos).
-- Responder `docs/negocio/PREGUNTAS.md`.
+- Responder `docs/negocio/PREGUNTAS.md` (35 preguntas; empezar por las de prioridad A) y las 5 de roles en `docs/seguridad/MODELO_AMENAZAS.md` §5.
